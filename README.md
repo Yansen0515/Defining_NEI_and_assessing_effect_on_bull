@@ -1,6 +1,6 @@
 # Defining a nitrogen efficiency index in Holstein cows and assessing its potential effect on the breeding program of bulls
 
-## This file inclued 4 supplemental results (1 Table and 3 Figures)
+## This file (Supplmental_Table1S_Figure1S_2S_3S) inclued 4 supplemental results (1 Table and 3 Figures)
 
 ### The results ordered as follows:
 
