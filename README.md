@@ -2,7 +2,7 @@
 
 ## This file inclued 4 supplemental results (1 Table and 3 Figures)
 
-### The order  as follows:
+### The results ordered as follows:
 
 - **Table 1S** Reliability for bulls (n = 736) for the N intake in primiparous (NINT1), milk true protein N in primiparous (MTPN1), milk urea nitrogen yield in primiparous (MUNY1), N intake in multiparous (NINT2+), milk true protein N in multiparous (MTPN2+), and milk urea nitrogen yield in multiparous (MUNY2+).
 
