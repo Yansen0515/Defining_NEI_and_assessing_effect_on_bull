@@ -1,4 +1,4 @@
-# Defining a nitrogen efficiency index in Holstein cows and assessing its potential effect on the breeding program of bulls
+# [Defining a nitrogen efficiency index in Holstein cows and assessing its potential effect on the breeding program of bulls](https://doi.org/10.3168/jds.2021-21681)
 
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/55590706/182241545-21ac88b0-157e-4a1f-8a12-0033c1eaf934.png">
 
